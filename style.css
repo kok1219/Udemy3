@@ -296,13 +296,13 @@ div#price_title h3 {
   display: inline-block;
   border-bottom: 4px solid #e56d7c;
   padding-bottom: 15px;
-  margin-right: 20px;
+  margin-right: 28px;
 }
 
 
 
 div#price ul li {
-  width: 290px;
+  width: 276px;
   height: 290px;
   float: left;
   background-color: #fff;
